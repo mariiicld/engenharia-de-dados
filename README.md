@@ -449,6 +449,8 @@ A descrição apresenta de forma objetiva a formação acadêmica, a formação 
 
 ### 3.3.2 Foto de Perfil
 
+Perfil novo, sem uma identidade profissional definida até o momento.
+
 ### 3.3.3 Informações Profissionais
 
 O perfil apresenta informações profissionais diretamente relacionadas à área de Tecnologia da Informação. São destacados:
