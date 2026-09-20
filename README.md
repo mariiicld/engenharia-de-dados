@@ -615,123 +615,123 @@ O feedback precisa abordar:
 
 ### Feedback Valter:
 
-# 4. Análise Individual - Valter
-## 4.1 Análise do GitHub
-
- - username
- - Descrição do perfil
- - Quantidade de repositórios públicos;
- - Repositórios fixados;
- - Repositório com maior número de estrelas;
- - Descrição dos principais projetos;
- - Tecnologias utilizadas nos projetos;
- - Quantidade de seguidores;
- - Evolução dos seguidores, caso seja possível verificar;
- - Participação/engajamento com a comunidade.
-
 ## 4.1.1 Repositórios e Projetos
   
- - Nome do projeto;
- - Objetivo;
- - Tecnologias utilizadas;
- - O que foi desenvolvido;
- - Qual a contribuição do projeto para a carreira em Engenharia de Dados;
- - Quantidade de estrelas, forks ou outras informações relevantes.
+### Projeto 1: `engenharia-de-dados`
 
-## 4.2 Análise do Linkedin
+* **Nome do projeto:** `engenharia-de-dados` (bifurcado de `mariiicld/engenharia-de-dados`)
+* **Objetivo:** Estruturar um repositório centralizado para o versionamento, documentação e consolidação dos trabalhos práticos, exercícios e conceitos desenvolvidos ao longo do percurso de Engenharia de Dados.
+* **Tecnologias utilizadas:** Git, GitHub, Markdown, com preparação para suporte a linguagens de script (Python) e consultas a bancos de dados (SQL).
+* **O que foi desenvolvido:** Realização da bifurcação (*fork*) do repositório base da disciplina, organizando a estrutura inicial de ficheiros e documentação necessária para o acompanhamento dos entregáveis acadêmicos do grupo.
+* **Qual a contribuição do projeto para a carreira em Engenharia de Dados:** Marca o início da construção de um portfólio público focado na área. Permite aplicar na prática o fluxo de trabalho colaborativo via Git/GitHub (como criação de *branches*, *commits* e *pull requests*) e a escrita de documentação técnica legível — competências indispensáveis na rotina de equipas de Engenharia e Arquitetura de Dados.
+* **Quantidade de estrelas, forks ou outras informações relevantes:** 
+  * **Estrelas:** 0
+  * **Forks:** 0
+  * **Visibilidade:** Público
+  * **Origem:** Fork de `mariiicld/engenharia-de-dados`
+  * **Data de Criação:** 19 de setembro de 2026
 
- - Área profissional desejada;
- - Cargo que pretende alcançar;
- - Stack/tecnologias de interesse;
- - Nível profissional atual;
- - Experiências profissionais;
- - Formação;
- - Cursos e certificações, se houver.
+## 4.2 Análise do LinkedIn - Valter G. da Silva Jr
+
+* **Área profissional desejada:** Engenharia de Dados / Dados e Analytics.
+* **Cargo que pretende alcançar:** Engenheiro de Dados Júnior / Analytics Engineer.
+* **Stack/tecnologias de interesse:**
+  * **Linguagens & Consultas:** Python, SQL avançado.
+  * **Bancos de Dados & Armazenamento:** PostgreSQL, MySQL, Data Lakes e Data Warehouses.
+  * **Processamento & Orquestração:** Apache Spark / PySpark, Apache Airflow, dbt (*data build tool*).
+  * **Nuvem & Ferramentas:** AWS (Amazon Web Services), Git/GitHub, Docker.
+* **Nível profissional atual:** Em transição de carreira para a área de Tecnologia / Nível Inicial (Estudante de ADS).
+* **Experiências profissionais:**
+  * **Supervisor Comercial** — UniCesumar *(Gestão e liderança de equipe, acompanhamento de indicadores de desempenho, otimização de processos comerciais e rotinas operacionais)*.
+  * **Atuação estratégica em Vendas e Operações Comercial/Marketing**.
+* **Formação:**
+  * **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)** — UNICID (Universidade Cidade de São Paulo) | *Cursando — 2º Semestre*.
+  * **Técnico em Marketing** — Etec Martin Luther King.
+* **Cursos e certificações:**
+  * **Formação Acadêmica Complementar:** Destaque na disciplina *Engenharia de Prompt e Aplicações em IA* (UNICID).
+  * **Capacitações Livres:** Cursos de lógica de programação, fundamentos de Python, modelagem de banco de dados e aplicações práticas de Inteligência Artificial.
 
 ## 4.2.1 Headline Profissional
 
-Verificar:
- - Se deixa clara a área profissional;
- - Se informa o cargo desejado;
- - Se utiliza palavras-chave importantes;
- - Se está alinhado com Engenharia de Dados;
- - Se facilita que recrutadores encontrem o perfil.
+### Modelo / Sugestão de Headline Otimizada
+> **Estudante de Análise e Desenvolvimento de Sistemas | Foco em Engenharia de Dados | Python | SQL | Modelagem de Bancos de Dados | IA**
+
+### Análise Crítica do Título Profissional
+* **Clareza da área profissional:** Explicita de forma direta a atuação no setor de Tecnologia da Informação, destacando a transição/foco para o ecossistema de Dados.
+* **Informação do cargo desejado:** Sinaliza o objetivo claro de ingressar na área de Engenharia de Dados (nível Estágio / Júnior / Analytics Engineer).
+* **Utilização de palavras-chave importantes:** Contém os termos mais pesquisados por algoritmos de busca e *headhunters* da área, como `Python`, `SQL`, `Modelagem de Bancos de Dados` e `Engenharia de Dados`.
+* **Alinhamento com Engenharia de Dados:** Totalmente alinhado com os requisitos técnicos fundamentais exigidos em vagas de entrada mapeadas no mercado.
+* **Atratividade para recrutadores (SEO do LinkedIn):** A combinação do curso de graduação com a stack técnica inicial facilita a indexação do perfil nas ferramentas de recrutamento (LinkedIn Recruiter).
 
 ## 4.2.2 Crescimento e Atividade
 
-Colocar:
- - Quantidade de conexões/seguidores;
- - Crescimento da rede, quando possível;
- - Frequência de publicações;
- - Tipos de conteúdo publicados;
- - Curtidas;
- - Comentários;
- - Compartilhamentos;
- - Participação em assuntos relacionados à tecnologia;
- - Engajamento profissional.
+* **Quantidade de conexões/seguidores:** Perfil em fase de expansão ativa (~40 a 60+ conexões e seguidores nas redes).
+* **Crescimento da rede:** Apresenta tendência de crescimento contínuo, impulsionado pela conexão com colegas da graduação em ADS, professores da UNICID e profissionais atuantes no mercado de Dados.
+* **Frequência de publicações:** Frequência moderada/em construção (publicações quinzenais ou mensais acompanhando a evolução dos estudos acadêmicos e projetos práticos).
+* **Tipos de conteúdo publicados:**
+  * Compartilhamento de conquistas acadêmicas e projetos desenvolvidos no curso de ADS;
+  * Certificados e cursos livres concluídos na área de tecnologia;
+  * Comentários e reflexões sobre inovações em Inteligência Artificial e Bancos de Dados.
+* **Interação (Curtidas, Comentários e Compartilhamentos):**
+  * **Curtidas & Comentários:** Atuação constante interagindo em publicações da rede, posts de empresas de tecnologia e artigos técnicos.
+  * **Compartilhamentos:** Compartilhamento ocasional de conteúdos relevantes sobre carreira em TI e Engenharia de Dados.
+* **Participação em assuntos relacionados à tecnologia:** Acompanhamento ativo de conteúdos sobre linguagem Python, arquitetura de dados, modelagem de dados e aplicações práticas de Inteligência Artificial.
+* **Avaliação Geral do Engajamento Profissional:** O perfil demonstra presença digital positiva e alinhada com os objetivos acadêmicos. Para maximizar a visibilidade, a estratégia recomendada é aumentar a frequência de postagens autorais apresentando a resolução de problemas práticos e links para os repositórios desenvolvidos no GitHub.
 
 ## 4.3 Instagram Profissional
 
-Verificar:
- - Bio;
- - Foto de perfil;
- - Informações profissionais;
- - Conteúdo publicado;
- - Se existe conteúdo relacionado à tecnologia;
- - Se o perfil transmite uma imagem profissional;
- - Se existe alinhamento entre Instagram e objetivo de carreira.
-
+* **Bio:** > *ADS @ UNICID | Foco em Engenharia de Dados & IA 📊 | Construindo soluções com Python & SQL 🐍 | Projetos no GitHub ⬇️*
+* **Foto de perfil:** Foto recente com enquadramento profissional (rosto visível, boa iluminação e fundo neutro), mantendo a identidade visual utilizada no LinkedIn e GitHub.
+* **Informações profissionais:** Destaque para a formação acadêmica em Análise e Desenvolvimento de Sistemas (UNICID) e para a transição/foco de carreira para a área de Engenharia de Dados.
+* **Conteúdo publicado:** Perfil recém-criado (zerado), sem publicações no *feed*, *Reels* ou *Destaques* registrados até o momento.
+* **Presença de conteúdo relacionado à tecnologia:** Em fase de planejamento; prevê-se o compartilhamento de rotinas de estudo, bastidores de projetos em desenvolvimento no GitHub, participação em eventos de tecnologia e resumos visuais de conceitos sobre banco de dados e Python.
+* **Imagem profissional transmitida:** A estrutura do perfil foi projetada para transmitir uma postura séria, limpa e focada no crescimento técnico, separando o posicionamento profissional da conta pessoal.
+* **Alinhamento com o objetivo de carreira:** Alinhamento estratégico em construção. A rede funcionará como um canal secundário de *branding* pessoal e *networking*, servindo para humanizar a jornada de aprendizado, registrar conquistas acadêmicas/certificações e atrair conexões do ecossistema de tecnologia.
 ## 4.4 Outras Redes e Portfólio
 
-Exemplos:
- - Dev.to;
- - Medium;
- - Substack;
- - Behance;
- - Notion;
- - Portfólio próprio;
- - Outras plataformas profissionais.
+### 1. Dev.to
+* **Qual plataforma:** Dev.to
+* **Link:** `https://dev.to/valtergsj` 
+* **O que possui publicado:** Perfil recém-criado, sem artigos ou publicações técnicas registradas até o momento.
+* **Como contribui para a carreira:** Constitui um canal estratégico de futuro para a prática de *technical writing* (escrita técnica). Permitirá documentar a resolução de problemas em projetos de Engenharia de Dados, explicar pipelines criados em Python/SQL e compartilhar artigos sobre aprendizados acadêmicos, fortalecendo a autoridade e a visibilidade na comunidade global de desenvolvimento.
+* **Se está atualizada:** Perfil em fase inicial de configuração (não movimentado); pendente de personalização das informações de bio e publicação do primeiro artigo técnico.
 
-Para cada uma:
- - Qual plataforma;
- - Link;
- - O que possui publicado;
- - Como contribui para a carreira;
- - Se está atualizada.
+### 2. Outras Plataformas (Medium, Substack, Notion, Behance, Portfólio Próprio)
+* **Status:** No momento, não são utilizadas plataformas adicionais de conteúdo ou portfólios alternativos.
+* **Planejamento de Uso:**
+  * **Notion:** Planejado para organização pessoal de estudos, documentação de rotinas de *Data Engineering* e construção de uma base de conhecimento privada sobre SQL, Python e arquiteturas em nuvem.
+  * **Medium / Substack:** Avaliados como possíveis canais secundários para publicação de artigos focados em negócios e análise estratégica de dados.
 
-## 4.5 Plano de Carreira
+## 4.5 Plano de Carreira (Atualizado)
 
-### Curto Prazo - 6 a 12 Meses
+### Curto Prazo (6 a 12 Meses)
+* **Evolução e Documentação no GitHub:** O foco prioritário passa a ser a publicação e documentação de pelo menos 2 projetos autorais de Ingestão e Tratamento de Dados (ETL/ELT) em Python e SQL, incluindo ficheiros `README.md` detalhados com diagramas e explicações da arquitetura.
+* **Engajamento e Expansão no LinkedIn:** Focar na expansão ativa da rede profissional — evoluindo das 42 conexões atuais para mais de 150+ conexões estratégicas no setor de TI/Dados — e na manutenção de uma rotina quinzenal/mensal de publicações sobre os projetos desenvolvidos e aprendizagens da graduação.
+* **Aprofundamento Académico e Cursos Livres:** Consolidar as competências técnicas das disciplinas do 2º semestre da UNICID (*Modelagem de Banco de Dados* e *Algoritmos e Pensamento Computacional*), integrando-as com formações complementares em manipulação de dados com Python (Pandas) e escrita de *queries* avançadas em SQL.
+* **Construção do Primeiro Pipeline de Dados:** Projetar e implementar um pipeline prático de dados que consuma dados de uma API pública, realize a transformação dos dados via Python e efetue a carga num banco de dados relacional (PostgreSQL).
+* **Candidatura a Oportunidades de Entrada:** Iniciar a prospecção ativa e candidatura a vagas de Estágio ou nível Júnior nas funções de Engenheiro de Dados, Analytics Engineer ou Analista de Dados.
 
-Objetivos :?
- - Aprender determinada tecnologia;
- - Melhorar GitHub;
- - Melhorar LinkedIn;
- - Fazer cursos;
- - Criar projetos;
- - Buscar estágio/primeira oportunidade.
+### Médio Prazo (1 a 3 Anos)
+* **Atuação Profissional:** Ingressar e se consolidar no mercado como **Engenheiro de Dados Júnior** ou **Analytics Engineer**.
+* **Tecnologias Avançadas:** Dominar ferramentas de processamento distribuído (**PySpark**), orquestração de pipelines (**Apache Airflow**) e plataformas em nuvem (**AWS**).
+* **Certificação:** Obter a certificação oficial *AWS Certified Cloud Practitioner*.
 
-### Médio Prazo - 1 a 3 Anos
-
- - Conseguir experiência profissional;
- - Trabalhar como profissional de dados;
- - Aprender tecnologias mais avançadas;
- - Obter certificações;
- - Desenvolver projetos maiores.
-
-### Longo Prazo - 3 a 5+ Anos
-
-Exemplos:
- - Tornar-se Engenheira de Dados;
- - Alcançar determinada especialização;
- - Trabalhar com Cloud/Data Engineering;
- - Assumir posições de maior responsabilidade.
+### Longo Prazo (3 a 5+ Anos)
+* **Evolução de Cargo:** Alcançar a posição de **Engenheiro de Dados Pleno/Sênior** ou **Arquiteto de Dados**.
+* **Liderança Técnica:** Liderar o desenvolvimento de infraestruturas de *Data Lakehouse* e definir padrões de governança, qualidade e segurança de dados.
 
 ## 4.6 PDI - Plano de Desenvolvimento Individual
 
- - Objetivo - Ação - Prazo - Indicador de progresso
-
-(Exemplo: Estudar Python durante 4 meses e desenvolver um projeto utilizando a linguagem até determinada data.)
+| Objetivo | Ação Prática | Prazo | Indicador de Progresso |
+| :--- | :--- | :--- | :--- |
+| **Alimentação do Portfólio no GitHub (Curto Prazo)** | Desenvolver e publicar 2 projetos autorais de ETL/ELT em Python e SQL (consumo de APIs e tratamento de dados) no repositório `Valtergsj/engenharia-de-dados`. | 3 a 6 meses | 2 projetos completos publicados com código limpo e documentação (`README.md`) detalhada com diagramas. |
+| **Expansão e Posicionamento no LinkedIn (Curto Prazo)** | Manter a Headline atualizada com o foco em Dados, interagir com profissionais da área e publicar 1 artigo/post mensal sobre projetos e aprendizados do curso de ADS da UNICID. | 6 a 12 meses | Crescimento das 42 conexões atuais[cite: 4] para 200+ conexões na área de TI/Dados e aumento nas visualizações do perfil. |
+| **Ingresso na Área de Dados (Curto Prazo)** | Estruturar currículo focado em dados, praticar resolução de problemas em SQL/Python e candidatar-se ativamente a processos seletivos. | 6 a 12 meses | Contratação ou transição para primeira oportunidade como Estagiário em Dados, Analytics Engineer ou Engenheiro de Dados Júnior. |
+| **Orquestração e Processamento de Dados (Médio Prazo)** | Estudar e implementar pipelines de dados utilizando **Apache Spark / PySpark** para manipulação e **Apache Airflow** para orquestração de tarefas. | 1 a 2 anos | Repositório no GitHub contendo uma arquitetura de dados completa orquestrada via Airflow rodando em container Docker. |
+| **Certificação de Dados em Nuvem (Médio Prazo)** | Realizar cursos preparatórios sobre a infraestrutura de dados da AWS (S3, Redshift, Athena, Glue) e realizar simulados oficiais. | 1,5 a 2 anos | Obtenção do certificado oficial *AWS Certified Cloud Practitioner* ou *AWS Certified Data Engineer - Associate*. |
+| **Consolidação Profissional Pleno (Médio Prazo)** | Atuar no desenvolvimento de transformações complexas com **dbt** e estruturação de *Data Warehouses* em ambiente de produção corporativo. | 2 a 3 anos | Promoção ou transição para o cargo de **Engenheiro de Dados Pleno** ou **Analytics Engineer**. |
+| **Streaming e Infraestrutura de Dados (Longo Prazo)** | Aprofundar conhecimentos em processamento em tempo real com **Apache Kafka** e automação de infraestrutura com **Terraform**. | 3 a 4 anos | Implementação bem-sucedida de pipelines de dados em tempo real (*streaming*) e infraestrutura automatizada como código. |
+| **Liderança Técnica e Arquitetura de Dados (Longo Prazo)** | Assumir a definição de arquiteturas de *Data Lakehouse*, cultura de *DataOps*, governança, segurança e qualidade de dados em escala. | 4 a 5 anos | Ascensão para o cargo de **Engenheiro de Dados Sênior** ou **Arquiteto de Dados**, liderando projetos e orientando equipes. |
 
 ## 4.7 Feedback por Pares
 
