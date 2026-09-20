@@ -280,7 +280,48 @@ O feedback precisa abordar:
  - Pontos que precisam melhorar;
  - Sugestões concretas.
 
-### Feedback Mariana: 
+### Feedback Mariana:
+
+A Ana ainda está começando a construir sua presença profissional, mas já tem um objetivo bem definido: conseguir um estágio na área de Tecnologia ou Dados e, futuramente, trabalhar com Engenharia de Dados. Como seus perfis são recentes, ainda há bastante espaço para desenvolver.
+
+**Qualidade do perfil digital:**  
+O perfil ainda tem pouco conteúdo. No GitHub, por exemplo, só há o trabalho acadêmico de Engenharia de Dados da matéria de Design Profissional. Ainda faltam mais projetos para mostrar na prática o que ela sabe fazer.
+
+**Consistência entre GitHub, LinkedIn e outras redes:**  
+O GitHub e o LinkedIn seguem uma direção parecida, voltada para Tecnologia e Engenharia de Dados. Já o Instagram ainda tem poucas informações profissionais e ela ainda não possui um portfólio. Conforme novos projetos e cursos forem surgindo, seria interessante manter todas as plataformas atualizadas.
+
+**Clareza do objetivo profissional:**  
+O objetivo está claro. Ela pretende começar com um estágio e, depois, seguir para Engenharia de Dados. Python, SQL, bancos de dados e Cloud também estão de acordo com esse objetivo.
+
+**Viabilidade do plano de carreira:**  
+O plano é possível para o momento atual. Acho interessante ela focar primeiro em Python, SQL e bancos de dados para construir uma boa base antes de partir para tecnologias mais avançadas de Cloud e Engenharia de Dados.
+
+**Coerência do PDI:**  
+O PDI está de acordo com o plano de carreira, principalmente nos objetivos de aprender Python e SQL, conhecer melhor Engenharia de Dados, melhorar o GitHub e buscar estágio. Porém, alguns indicadores poderiam ser mais específicos. Em vez de apenas “conseguir desenvolver pequenos programas”, por exemplo, poderia definir uma quantidade de exercícios ou projetos para concluir.
+
+**Pontos positivos:**
+
+- Já possui um objetivo profissional definido;
+- O plano de carreira tem uma evolução coerente;
+- Python e SQL estão entre as principais prioridades;
+- Já começou a organizar sua presença profissional;
+- O PDI possui prazos para os objetivos.
+
+**Pontos que precisam melhorar:**
+
+- Ter mais projetos no GitHub;
+- Desenvolver melhor o LinkedIn e o Instagram profissional;
+- Criar um portfólio;
+- Deixar os indicadores do PDI mais específicos;
+- Definir melhor quais conhecimentos pretende desenvolver em cada etapa da carreira.
+
+**Sugestões concretas:**
+
+- Publicar os próximos projetos da faculdade no GitHub, explicando o que foi feito e quais tecnologias foram usadas;
+- Depois de melhorar em Python e SQL, criar um projeto próprio com banco de dados;
+- Adicionar cursos, projetos e aprendizados no LinkedIn conforme forem acontecendo;
+- Interagir mais com conteúdos e profissionais da área;
+- Acompanhar o PDI durante a faculdade e atualizar as metas conforme for evoluindo.
 
 ### Feedback Valter:
 
