@@ -3,7 +3,7 @@
 ## Integrantes:
     Ana Julia
     Mariana Calderari
-    Valter Junior
+    Valter Geronimo da Silva Junior
 
 # 1. Introdução
 ## 1.1 Engenharia de Dados
