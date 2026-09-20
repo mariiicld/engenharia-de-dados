@@ -283,7 +283,11 @@ O feedback precisa abordar:
 
 ### Feedback Mariana:
 
+O trabalho da Ana está bem organizado e mostra claramente seu interesse em Engenharia de Dados. O plano de carreira está de acordo com seu momento na faculdade. Como sugestão, ela pode continuar atualizando o GitHub e o LinkedIn com novos projetos.
+
 ### Feedback Valter Junior:
+
+O trabalho apresenta objetivos claros e possíveis de alcançar durante a graduação. Um ponto positivo é que a Ana já sabe qual área deseja seguir. Como melhoria, pode buscar mais cursos e desenvolver projetos práticos para fortalecer seu perfil.
 
 # 3. Análise Individual - Mariana Calderari
 ## 3.1 Análise do GitHub
