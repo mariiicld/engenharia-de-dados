@@ -611,7 +611,7 @@ O PDI está de acordo com o plano de carreira, principalmente nos objetivos de a
   
 ### Projeto 1: `engenharia-de-dados`
 
-* **Nome do projeto:** `engenharia-de-dados` (bifurcado de `mariiicld/engenharia-de-dados`)
+* **Nome do projeto:** `engenharia-de-dados` 
 * **Objetivo:** Estruturar um repositório centralizado para o versionamento, documentação e consolidação dos trabalhos práticos, exercícios e conceitos desenvolvidos ao longo do percurso de Engenharia de Dados.
 * **Tecnologias utilizadas:** Git, GitHub, Markdown, com preparação para suporte a linguagens de script (Python) e consultas a bancos de dados (SQL).
 * **O que foi desenvolvido:** Realização da bifurcação (*fork*) do repositório base da disciplina, organizando a estrutura inicial de ficheiros e documentação necessária para o acompanhamento dos entregáveis acadêmicos do grupo.
