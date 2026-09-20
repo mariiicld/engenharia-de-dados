@@ -283,7 +283,35 @@ O feedback precisa abordar:
 
 ### Feedback Mariana:
 
+Feedback para Mariana
+
+Qualidade do perfil:
+O perfil está bem organizado e apresenta sua formação, conhecimentos e interesse pela área de Engenharia de Dados.
+
+Pontos positivos:
+A Mariana já possui experiência com algumas tecnologias e projetos, além de ter um plano de carreira e um PDI bem definidos.
+
+Pontos a melhorar:
+Pode aumentar a quantidade de publicações no LinkedIn e Instagram e continuar adicionando projetos ao GitHub e ao portfólio.
+
+Sugestões:
+Continuar estudando Python, SQL e ferramentas de dados, desenvolver projetos práticos e manter seus perfis profissionais atualizados.
+
 ### Feedback Valter Junior:
+
+Feedback para Valter
+
+Qualidade do perfil:
+O perfil está bem organizado e apresenta informações sobre sua formação, conhecimentos e objetivo profissional.
+
+Pontos positivos:
+O Valter já possui um objetivo definido na área de Engenharia de Dados e apresenta um plano de carreira com metas de curto, médio e longo prazo.
+
+Pontos a melhorar:
+Ainda pode aumentar a quantidade de projetos no GitHub e começar a publicar mais conteúdos relacionados à tecnologia nas redes profissionais.
+
+Sugestões:
+Continuar estudando Python e SQL, desenvolver projetos práticos e manter o GitHub e o LinkedIn atualizados conforme adquirir novos conhecimentos.
 
 # 3. Análise Individual - Mariana Calderari
 ## 3.1 Análise do GitHub
