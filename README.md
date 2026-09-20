@@ -759,7 +759,7 @@ A Ana Julia apresenta uma postura realista e consciente sobre o seu momento de i
   * **Documentação no GitHub:** Documentar os exercícios e trabalhos da faculdade em repositórios próprios com arquivos `README.md` explicativos.
   * **Engajamento no LinkedIn:** Atualizar a Headline do perfil e publicar pequenos resumos semanais ou quinzenais sobre os conceitos aprendidos nas aulas de ADS.
   
-### Feedback Mariana:
+### Feedback Mariana Calderari:
 
 A Mariana apresenta um perfil digital maduro e muito bem estruturado, impulsionado pela sua formação técnica prévia em Desenvolvimento de Sistemas na ETEC e pela organização da sua presença online em múltiplas plataformas.
 
@@ -785,43 +785,75 @@ A Mariana apresenta um perfil digital maduro e muito bem estruturado, impulsiona
 
 ## 5.1 Análise Conjunta
 
-Falar sobre:
- - Situação atual dos três integrantes;
- - Pontos em comum;
- - Diferenças entre os perfis;
- - Competências já desenvolvidas;
- - Competências que ainda precisam ser desenvolvidas.
+### Situação Atual dos Integrantes
+Os três integrantes do grupo Ana Julia, Mariana Calderari e Valter Junior encontram-se atualmente no 2º semestre do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) na UNICID. Todos partilham o objetivo comum de direcionar as suas carreiras para a área de **Engenharia de Dados e Analytics**, estando em fase de consolidação dos conhecimentos fundamentais de programação, bases de dados e versionamento de código.
+
+### Pontos em Comum
+* **Contexto Académico e Objetivo Profissional:** Todos estão na mesma etapa da graduação e procuram atuar no ecossistema de dados, visando oportunidades de estágio ou posições de nível inicial (Júnior).
+* **Foco Inicial de Aprendizado:** Alinhamento quanto à necessidade primordial de dominar a linguagem **Python**, a linguagem de consulta **SQL** e a utilização de **Git/GitHub** para documentação de portfólio.
+* **Identificação de Desafios:** Todos reconhecem a necessidade de evoluir a presença digital técnica no LinkedIn e de publicar mais projetos práticos que demonstrem a aplicação real dos conceitos estudados.
+
+### Diferenças entre os Perfis
+* **Ana Julia:** Perfil de entrada na área de TI. Está a construir a sua base técnica a partir do zero através das disciplinas do curso de ADS, exigindo foco no domínio da lógica de programação e na criação dos primeiros repositórios.
+* **Mariana Calderari:** Perfil com formação técnica prévia em Desenvolvimento de Sistemas (ETEC). Já possui competências em automação, integração de APIs e prototipagem, além de um portfólio organizado no Notion e conta no GitLab, estando num estágio mais avançado de desenvolvimento de software.
+* **Valter Geronimo da Silva Junior:** Perfil em transição de carreira vindo de cargos de liderança e supervisão comercial. Traz como diferencial uma forte bagagem de visão de negócio, gestão de processos, liderança e comunicação interpessoal, precisando de direcionar esse histórico para a aplicação técnica em arquiteturas de dados.
+
+### Competências Já Desenvolvidas e a Desenvolver
+* **Competências já desenvolvidas pelo grupo:** Noções de lógica de programação, sintaxe básica de Python, estrutura e consultas em SQL, versionamento básico com Git/GitHub, integração de APIs (Mariana) e visão estratégica de processos/negócio (Valter).
+* **Competências que ainda precisam de ser desenvolvidas:** Construção de *pipelines* de ETL/ELT automatizados, orquestração de fluxos com **Apache Airflow**, processamento distribuído com **PySpark/Databricks**, modelagem de *Data Warehouse/Data Lakehouse* e utilização de serviços em nuvem (**AWS/GCP/Azure**).
 
 ## 5.2 Comparação com o Mercado
 
-Comparar os perfis dos integrantes com o que foi encontrado na introdução.
-Por exemplo:
-Mercado exige → integrante possui → integrante precisa desenvolver.
+Com base no mapeamento de vagas realizado no **Item 1.5 e 1.6**, comparam-se as exigências recorrentes do mercado com o estado atual e os pontos de desenvolvimento de cada integrante:
+
+* **Exigência do Mercado (Mapeamento de Vagas):**
+  * **SQL:** Requisito unânime (5/5 vagas) em todos os níveis.
+  * **Python:** Requisito em 80% das oportunidades (4/5 vagas).
+  * **ETL / ELT / Pipelines de Dados:** Exigido em 80% das vagas (4/5).
+  * **Cloud Computing (AWS / GCP / Azure):** Presente em 60% das vagas (3/5).
+  * **Visão de Negócio e Comunicação:** Soft skills solicitadas em 80% das descrições (4/5).
+
+* **Ana Julia:**
+  * *Mercado exige:* SQL + Python + Portfólio demonstrável.
+  * *Integrante possui:* Conceitos académicos iniciais de ADS.
+  * *Precisa desenvolver:* Prática intensiva em consultas SQL, scripts de manipulação em Python e publicação de repositórios no GitHub.
+
+* **Mariana Calderari:**
+  * *Mercado exige:* ETL/ELT + PySpark + Cloud + Airflow.
+  * *Integrante possui:* Formação técnica em software, integração de APIs e lógica avançada.
+  * *Precisa desenvolver:* Ferramentas de grande escala de dados (PySpark/Airflow) e infraestrutura em nuvem.
+
+* **Valter Junior:**
+  * *Mercado exige:* SQL avançado + Python para ETL + Visão de Negócio + Cloud.
+  * *Integrante possui:* Forte visão de negócio, comunicação executiva, gestão e base académica em ADS.
+  * *Precisa desenvolver:* Transposição da bagagem de negócio para código (scripts ETL autorais em Python e SQL) e arquitetura cloud.
 
 ## 5.3 Identificação dos Gaps
 
-Mostrar o que falta para cada integrante se aproximar das exigências do mercado.
+### Ana Julia
+* **Gap técnico:** Falta de profundidade na escrita de *queries* SQL complexas, manipulação de dados com bibliotecas Python (Pandas) e conceitos de pipelines ETL.
+* **Gap comportamental:** Necessidade de desenvolver maior proatividade no posicionamento público e *networking* na comunidade de tecnologia.
+* **Gap de portfólio:** Ausência de projetos práticos e repositórios autorais ativos no GitHub para além do trabalho académico atual.
 
-Exemplo de estrutura:
- - Ana Julia
-  Gap técnico: ...
-  Gap comportamental: ...
-  Gap de portfólio: ...
+### Mariana Calderari
+* **Gap técnico:** Necessidade de transitar do desenvolvimento de software genérico/automação para ferramentas específicas de Big Data (PySpark, dbt, Apache Airflow) e plataformas de nuvem (AWS/GCP).
+* **Gap comportamental:** Baixa frequência de publicações e produção de artigos técnicos no LinkedIn para dar visibilidade aos projetos desenvolvidos.
+* **Gap de portfólio:** Falta de um projeto de ponta a ponta (*end-to-end*) focado em arquitetura e tratamento de grande volume de dados no GitHub.
 
- - Mariana
-  Gap técnico: ...
-  Gap comportamental: ...
-  Gap de portfólio: ...
-
- - Valter
-  Gap técnico: ...
-  Gap comportamental: ...
-  Gap de portfólio: ...
+### Valter Junior
+* **Gap técnico:** Necessidade de aprofundamento prático na construção de pipelines de dados em Python, consultas SQL avançadas e orquestração de dados em nuvem.
+* **Gap comportamental:** Transição do posicionamento público no LinkedIn, migrando a imagem de gestor comercial para a de profissional focado em Engenharia de Dados.
+* **Gap de portfólio:** Necessidade de alimentar o repositório `Valtergsj/engenharia-de-dados` com projetos autorais de ingestão de APIs e banco de dados relacional.
 
 ## 5.4 Plano de Ação
 
-Sugestões de práticas e individualizadas para eliminar os gaps e alcançar alinhamento com o mercado.
+A tabela abaixo detalha as ações práticas, individualizadas e temporizadas para que cada integrante elimine os seus *gaps* e alcance o alinhamento com as exigências do mercado de trabalho:
 
-Por exemplo:
-
-Integrante → Gap → Ação → Prazo → Indicador
+| Integrante | Gap Identificado | Ação Prática | Prazo | Indicador de Progresso |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ana Julia** | Domínio prático de SQL e Python | Realizar exercícios diários de SQL e desenvolver um script simples de limpeza de dados em Python. | 3 meses | Resolução de 40+ desafios no LeetCode/HackerRank e 1 script funcional publicado. |
+| **Ana Julia** | Ausência de portfólio público | Criar e documentar 2 repositórios no GitHub com trabalhos práticos da faculdade e exercícios de dados. | 6 meses | 2 repositórios públicos no GitHub com `README.md` detalhados. |
+| **Mariana** | Ferramentas de Big Data & Nuvem | Estudar arquitetura de dados na AWS (S3, Redshift) e implementar um pipeline simples com PySpark. | 6 meses | 1 projeto prático de processamento distribuído publicado no GitHub e GitLab. |
+| **Mariana** | Visibilidade profissional | Criar uma rotina de publicações mensais no LinkedIn apresentando a arquitetura dos seus projetos. | 4 meses | Publicação de pelo menos 4 artigos/posts técnicos com métricas de engajamento na rede. |
+| **Valter** | Projetos práticos de ETL | Construir um pipeline que consome dados de uma API pública em Python, trata os dados e grava no PostgreSQL. | 3 meses | Projeto de ETL completo publicado e documentado no repositório `Valtergsj/engenharia-de-dados`. |
+| **Valter** | Transição de marca pessoal | Reestruturar a seção "Sobre" do LinkedIn e manter a Headline focada em Engenharia de Dados e IA. | 1 mês | Perfil atualizado e aumento das conexões na área de dados de 42 para 150+ conexões. |
