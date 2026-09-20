@@ -737,7 +737,7 @@ O feedback precisa abordar:
 
 ## 4.7 Feedback por Pares
 
-### Feedback Valter:
+### Feedback Ana Julia:
 
 A Ana Julia apresenta uma postura realista e consciente sobre o seu momento de início de carreira, demonstrando clareza ao focar na construção dos fundamentos técnicos antes de buscar ferramentas mais complexas.
 
@@ -759,7 +759,7 @@ A Ana Julia apresenta uma postura realista e consciente sobre o seu momento de i
   * **Documentação no GitHub:** Documentar os exercícios e trabalhos da faculdade em repositórios próprios com arquivos `README.md` explicativos.
   * **Engajamento no LinkedIn:** Atualizar a Headline do perfil e publicar pequenos resumos semanais ou quinzenais sobre os conceitos aprendidos nas aulas de ADS.
   
-### Feedback Valter:
+### Feedback Mariana:
 
 A Mariana apresenta um perfil digital maduro e muito bem estruturado, impulsionado pela sua formação técnica prévia em Desenvolvimento de Sistemas na ETEC e pela organização da sua presença online em múltiplas plataformas.
 
