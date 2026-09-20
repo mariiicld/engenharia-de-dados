@@ -617,7 +617,7 @@ Os perfis seguem uma direção parecida, todos voltados para Tecnologia, Dados e
 O objetivo está bem definido. O Valter pretende atuar com Engenharia de Dados e também considera a área de Analytics Engineer. As tecnologias citadas, como Python, SQL, bancos de dados, Spark, Airflow e AWS, estão relacionadas ao caminho profissional que ele pretende seguir.
 
 **Viabilidade do plano de carreira:**  
-O plano apresenta uma evolução por etapas, começando pela construção de projetos e busca por uma oportunidade de entrada e depois avançando para tecnologias como Spark, Airflow, AWS, dbt e Kafka. Para o momento atual, é importante priorizar os fundamentos antes de tentar aprender muitas tecnologias ao mesmo tempo.
+O plano apresenta uma evolução por etapas, começando pela construção de projetos e busca por uma oportunidade de entrada e depois avançando para tecnologias. Para o momento atual, é importante priorizar os fundamentos antes de tentar aprender muitas tecnologias ao mesmo tempo.
 
 **Coerência do PDI:**  
 O PDI está relacionado ao plano de carreira, principalmente nos objetivos de criar projetos, melhorar o LinkedIn, buscar uma oportunidade na área e aprender ferramentas de Engenharia de Dados. Os indicadores também são relativamente concretos, como publicar projetos, aumentar a rede profissional e desenvolver pipelines.
