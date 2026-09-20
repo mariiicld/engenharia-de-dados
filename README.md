@@ -91,120 +91,183 @@ Os salários variam de acordo com a experiência e o nível do profissional. Par
 # 2. Análise Individual - Ana Julia
 ## 2.1 Análise do GitHub
 
- - username
+ - username: aquinoana1109-lgtm
  - Descrição do perfil
+   
+Perfil criado recentemente com o objetivo de utilizar o GitHub para atividades acadêmicas e desenvolvimento de projetos durante a graduação em Análise e Desenvolvimento de Sistemas.
+   
  - Quantidade de repositórios públicos;
+
+Até o momento, possui poucos ou nenhum repositório público, pois o perfil foi criado recentemente e ainda está no início do curso.
+ 
  - Repositórios fixados;
+
+Não possui repositórios fixados no momento.
+
  - Repositório com maior número de estrelas;
+
+Ainda não possui um repositório com estrelas, pois os projetos estão começando a ser publicados.
+
  - Descrição dos principais projetos;
+
+Até o momento, o principal projeto está relacionado às atividades acadêmicas desenvolvidas durante o curso. Este trabalho sobre Engenharia de Dados será uma das primeiras experiências de utilização do GitHub para apresentar projetos.
+
  - Tecnologias utilizadas nos projetos;
+
+Até o momento, possui contato inicial com tecnologias como Python, SQL, HTML, CSS e Git/GitHub, principalmente por meio das atividades da faculdade.
+
  - Quantidade de seguidores;
+
+0 seguidores
+
  - Evolução dos seguidores, caso seja possível verificar;
+
+Não é possível analisar uma evolução significativa, já que o perfil é novo.
+
  - Participação/engajamento com a comunidade.
+
+Ainda é pequena, pois o perfil está no início. A intenção é aumentar a participação conforme novos projetos forem desenvolvidos e publicados.
 
 ## 2.1.1 Repositórios e Projetos
   
  - Nome do projeto;
+
+Engenharia de Dados
+   
  - Objetivo;
+ 
+ Realizar um estudo sobre Engenharia de Dados, entendendo o que é a área, suas principais funções e as tecnologias utilizadas.
+
  - Tecnologias utilizadas;
+
+GitHub, Markdown e ferramentas utilizadas durante as atividades acadêmicas.
+
  - O que foi desenvolvido;
+
+Foi realizada uma pesquisa sobre Engenharia de Dados e sua importância para as empresas, além da organização das informações em um projeto acadêmico.
+
  - Qual a contribuição do projeto para a carreira em Engenharia de Dados;
+
+O projeto ajuda a conhecer melhor a área de Engenharia de Dados e a ter um primeiro contato com ferramentas utilizadas para organizar e apresentar projetos.
+
  - Quantidade de estrelas, forks ou outras informações relevantes.
+
+Por ser um projeto recente, ainda não possui estrelas ou forks relevantes.
 
 ## 2.2 Análise do Linkedin
 
  - Área profissional desejada;
+
+Tecnologia da Informação, com interesse em Engenharia de Dados.
+
  - Cargo que pretende alcançar;
+
+No momento, busco uma oportunidade de estágio na área de tecnologia ou dados. No futuro, pretendo atuar como Engenheira de Dados.
+
  - Stack/tecnologias de interesse;
+
+Python, SQL, bancos de dados, Git/GitHub e, futuramente, tecnologias de Cloud e ferramentas voltadas para dados.
+
  - Nível profissional atual;
+
+Estudante e iniciante na área de tecnologia, atualmente no 2º semestre de Análise e Desenvolvimento de Sistemas.
+
  - Experiências profissionais;
+
+Ainda não possuo experiência profissional na área de tecnologia. Minhas experiências anteriores foram em outras áreas.
+
  - Formação;
+
+Graduação em Análise e Desenvolvimento de Sistemas – atualmente no 2º semestre.
+
  - Cursos e certificações, se houver.
+
+Até o momento, não possuo certificações específicas em Engenharia de Dados. Pretendo realizar cursos relacionados à área durante a graduação.
 
 ## 2.2.1 Headline Profissional
 
-Verificar:
- - Se deixa clara a área profissional;
- - Se informa o cargo desejado;
- - Se utiliza palavras-chave importantes;
- - Se está alinhado com Engenharia de Dados;
- - Se facilita que recrutadores encontrem o perfil.
+Como o perfil foi criado recentemente e ainda está sendo construído, a headline pode ser melhorada para deixar mais claro o objetivo profissional.
+
+Exemplo de headline:
+
+Estudante de Análise e Desenvolvimento de Sistemas | Interesse em Engenharia de Dados | Python | SQL | Git/GitHub.
+Essa descrição mostra que ainda sou estudante, mas já apresenta a área que pretendo seguir e algumas tecnologias que estou começando a estudar.
 
 ## 2.2.2 Crescimento e Atividade
 
-Colocar:
- - Quantidade de conexões/seguidores;
- - Crescimento da rede, quando possível;
- - Frequência de publicações;
- - Tipos de conteúdo publicados;
- - Curtidas;
- - Comentários;
- - Compartilhamentos;
- - Participação em assuntos relacionados à tecnologia;
- - Engajamento profissional.
-
+O perfil foi criado recentemente, não possui as informações desejadas.
+ 
 ## 2.3 Instagram Profissional
 
-Verificar:
- - Bio;
- - Foto de perfil;
- - Informações profissionais;
- - Conteúdo publicado;
- - Se existe conteúdo relacionado à tecnologia;
- - Se o perfil transmite uma imagem profissional;
- - Se existe alinhamento entre Instagram e objetivo de carreira.
+O Instagram também foi criado recentemente e, no momento, não possui um histórico profissional relacionado à tecnologia.
+Bio:
+Ainda está em construção e pode ser utilizada futuramente para apresentar a formação em ADS e o interesse pela área de tecnologia.
+
+Foto de perfil:
+Perfil novo, sem uma identidade profissional definida até o momento.
+
+Informações profissionais:
+Ainda possui poucas informações relacionadas à carreira em tecnologia.
+
+Conteúdo publicado:
+Até o momento, não possui conteúdo relacionado à tecnologia ou Engenharia de Dados.
+
+Imagem profissional:
+Ainda está sendo construída, pois a conta foi criada recentemente.
+
+Alinhamento com o objetivo de carreira:
+Ainda é baixo, mas poderá ser melhorado futuramente com conteúdos sobre estudos, projetos acadêmicos e evolução na área de tecnologia.
 
 ## 2.4 Outras Redes e Portfólio
 
-Exemplos:
- - Dev.to;
- - Medium;
- - Substack;
- - Behance;
- - Notion;
- - Portfólio próprio;
- - Outras plataformas profissionais.
+Até o momento, não possuo outras plataformas profissionais ou portfólio próprio.
 
-Para cada uma:
- - Qual plataforma;
- - Link;
- - O que possui publicado;
- - Como contribui para a carreira;
- - Se está atualizada.
+As contas utilizadas atualmente foram criadas recentemente para atividades acadêmicas da faculdade. Como ainda estou no início da graduação, pretendo criar e atualizar um portfólio conforme desenvolver novos projetos.
+
 
 ## 2.5 Plano de Carreira
 
 ### Curto Prazo - 6 a 12 Meses
 
-Objetivos :?
- - Aprender determinada tecnologia;
- - Melhorar GitHub;
- - Melhorar LinkedIn;
- - Fazer cursos;
- - Criar projetos;
- - Buscar estágio/primeira oportunidade.
+Objetivos:
+
+- Continuar aprendendo programação
+- Melhorar meus conhecimentos em Python e SQL
+- Aprender melhor Git e GitHub
+- Criar meus primeiros projetos
+- Melhorar meu LinkedIn e GitHub
+- Fazer cursos relacionados a dados
+- Buscar uma oportunidade de estágio em tecnologia
 
 ### Médio Prazo - 1 a 3 Anos
 
- - Conseguir experiência profissional;
- - Trabalhar como profissional de dados;
- - Aprender tecnologias mais avançadas;
- - Obter certificações;
- - Desenvolver projetos maiores.
+- Conseguir minha primeira experiência profissional na área
+- Aprender mais sobre bancos de dados e Engenharia de Dados
+- Conhecer ferramentas de Cloud
+- Desenvolver projetos maiores
+- Fazer cursos e buscar certificações
+- Adquirir mais experiência profissional
+
 
 ### Longo Prazo - 3 a 5+ Anos
 
 Exemplos:
- - Tornar-se Engenheira de Dados;
- - Alcançar determinada especialização;
- - Trabalhar com Cloud/Data Engineering;
- - Assumir posições de maior responsabilidade.
+- Trabalhar como Engenheira de Dados;
+- Ter experiência com projetos reais de dados
+- Aprofundar meus conhecimentos em Cloud 
+- Trabalhar com tecnologias mais avançadas
+- Assumir maiores responsabilidades na área
 
 ## 2.6 PDI - Plano de Desenvolvimento Individual
 
  - Objetivo - Ação - Prazo - Indicador de progresso
 
-(Exemplo: Estudar Python durante 4 meses e desenvolver um projeto utilizando a linguagem até determinada data.)
+Objetivo: melhorar Python - Ação: estudar e praticar exercícios - Prazo: 4 meses - Indicador de progresso: conseguir desenvolver pequenos programas
+Objetivo: aprender SQL - Ação: fazer exercícios e projetos com bancos de dados - Prazo: 4 meses - Indicador de progresso: conseguir realizar consultas SQL
+Objetivo: melhorar GitHub - Ação: utilizar GitHub nos trabalhos de faculdade - Prazo: 3 meses - Indicador de progresso: publicar projetos no perfil
+Objetivo: conhecer engenharia de dados - Ação: faze cursos e pesquisas sobre a área - Prazo: 6 meses - Indicador de progresso: conher principais ferramentas da área
+Objetivo: criar portifólio - Ação: desenvolver e publicar projetos acadêmicos - Prazo: 12 meses -  Indicador de progresso: ter alguns projetos publicados
+Objetivo: buscar estágio - Ação: preparar currículo e Linkedin e procurar oportunidades - Prazo: 6 a 12 meses -  Indicador de progresso: conseguir participar de processos celetivos
 
 ## 2.7 Feedback por Pares
 
