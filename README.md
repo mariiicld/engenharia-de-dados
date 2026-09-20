@@ -1,9 +1,9 @@
 # Engenharia de Dados: Mercado, Competências e Desenvolvimento Profissional
 
 ## Integrantes:
-    Ana Julia de Aquino Silva
-    Mariana Calderari
-    Valter Geronimo da Silva Junior
+    Ana Julia de Aquino Silva - RGM: 47784105
+    Mariana Calderari - RGM: 48100072
+    Valter Geronimo da Silva Junior - RGM: 47807458
 
 # 1. Introdução
 ## 1.1 Engenharia de Dados
