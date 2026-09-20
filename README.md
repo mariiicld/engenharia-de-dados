@@ -1,7 +1,7 @@
 # Engenharia de Dados: Mercado, Competências e Desenvolvimento Profissional
 
 ## Integrantes:
-    Ana Julia
+    Ana Julia de Aquino Silva
     Mariana Calderari
     Valter Geronimo da Silva Junior
 
@@ -281,9 +281,7 @@ O feedback precisa abordar:
  - Pontos que precisam melhorar;
  - Sugestões concretas.
 
-### Feedback Mariana:
-
-Feedback para Mariana
+### Feedback para Mariana Calderari:
 
 Qualidade do perfil:
 O perfil está bem organizado e apresenta sua formação, conhecimentos e interesse pela área de Engenharia de Dados.
@@ -297,9 +295,7 @@ Pode aumentar a quantidade de publicações no LinkedIn e Instagram e continuar 
 Sugestões:
 Continuar estudando Python, SQL e ferramentas de dados, desenvolver projetos práticos e manter seus perfis profissionais atualizados.
 
-### Feedback Valter Junior:
-
-Feedback para Valter
+### Feedback para Valter Junior:
 
 Qualidade do perfil:
 O perfil está bem organizado e apresenta informações sobre sua formação, conhecimentos e objetivo profissional.
@@ -582,7 +578,7 @@ No longo prazo, o objetivo é consolidar a carreira como **Engenheira de Dados**
 
 ## 3.7 Feedback por Pares
 
-### Feedback Ana Julia: 
+### Feedback para Ana Julia: 
 
 A Ana ainda está começando a construir sua presença profissional, mas já tem um objetivo bem definido: conseguir um estágio na área de Tecnologia ou Dados e, futuramente, trabalhar com Engenharia de Dados. Como seus perfis são recentes, ainda há bastante espaço para desenvolver.
 
@@ -630,7 +626,7 @@ O PDI está de acordo com o plano de carreira, principalmente nos objetivos de a
 - Interagir mais com conteúdos e profissionais da área;
 - Acompanhar o PDI durante a faculdade e atualizar as metas conforme for evoluindo.
 
-### Feedback Valter:
+### Feedback para Valter:
 
 O Valter já apresenta um direcionamento profissional bem definido para a área de Engenharia de Dados. Ele está começando a construir sua presença profissional e já possui uma ideia clara das tecnologias que pretende aprender e utilizar.
 
@@ -813,7 +809,7 @@ O PDI está relacionado ao plano de carreira, principalmente nos objetivos de cr
 
 ## 4.7 Feedback por Pares
 
-### Feedback Ana Julia:
+### Feedback para Ana Julia:
 
 A Ana Julia apresenta uma postura realista e consciente sobre o seu momento de início de carreira, demonstrando clareza ao focar na construção dos fundamentos técnicos antes de buscar ferramentas mais complexas.
 
@@ -835,7 +831,7 @@ A Ana Julia apresenta uma postura realista e consciente sobre o seu momento de i
   * **Documentação no GitHub:** Documentar os exercícios e trabalhos da faculdade em repositórios próprios com arquivos `README.md` explicativos.
   * **Engajamento no LinkedIn:** Atualizar a Headline do perfil e publicar pequenos resumos semanais ou quinzenais sobre os conceitos aprendidos nas aulas de ADS.
   
-### Feedback Mariana Calderari:
+### Feedback para Mariana Calderari:
 
 A Mariana apresenta um perfil digital maduro e muito bem estruturado, impulsionado pela sua formação técnica prévia em Desenvolvimento de Sistemas na ETEC e pela organização da sua presença online em múltiplas plataformas.
 
