@@ -650,6 +650,21 @@ O PDI está relacionado ao plano de carreira, principalmente nos objetivos de cr
 
 # 4. Análise Individual - Valter Junior
 
+## 4.1 Análise do GitHub
+
+**Username:** `Valtergsj`
+* **Descrição do Perfil:** Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas (UNICID), com foco de carreira voltado para Engenharia de Dados. Possui fundamentos em Programação de Computadores, Engenharia de Prompt e Aplicações em IA, e atualmente aprofunda-se em Modelagem de Banco de Dados, Algoritmos e Desenvolvimento Web.
+* **Quantidade de Repositórios Públicos:** 1 repositório público.
+* **Repositórios Fixados:** 
+  * `engenharia-de-dados` (Repositório bifurcado / *forked* de `mariiicld/engenharia-de-dados`).
+* **Repositório com Maior Número de Estrelas:** `engenharia-de-dados` (0 estrelas registadas no momento).
+* **Descrição dos Principais Projetos:** 
+  * `engenharia-de-dados`: Projeto derivado (*fork*) focado na área de Engenharia de Dados, utilizado para o desenvolvimento e versionamento das atividades da disciplina.
+* **Tecnologias Utilizadas nos Projetos:** Tecnologias associadas à estrutura do repositório base de Engenharia de Dados (tais como Python, SQL e estruturas de dados).
+* **Quantidade de Seguidores:** 13 seguidores.
+* **Evolução dos Seguidores:** Todos os seguidores foram adquiridos a partir do segundo semestre de 2026.
+* **Participação/Engajamento com a Comunidade:** Perfil em fase inicial de estruturação e consolidação de portfólio; regista 2 contribuições no último ano, destacando-se a criação do repositório da área em 19 de setembro de 2026 e a ligação com uma rede inicial de 13 seguidores e 12 perfis seguidos.
+
 ## 4.1.1 Repositórios e Projetos
   
 ### Projeto 1: `engenharia-de-dados`
