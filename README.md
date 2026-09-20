@@ -648,7 +648,7 @@ O PDI está relacionado ao plano de carreira, principalmente nos objetivos de cr
 - Começar a publicar conteúdos técnicos no Dev.to;
 - Acompanhar o PDI e atualizar as metas conforme adquirir novos conhecimentos.
 
-#
+# 4. Análise Individual - Valter Junior
 
 ## 4.1.1 Repositórios e Projetos
   
