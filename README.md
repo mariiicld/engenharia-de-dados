@@ -12,7 +12,7 @@
 A Engenharia de Dados é uma área da tecnologia que trabalha com coleta,organização e armazenamento de dados. Ela ajuda as empresas a deixarem suas informações organizadas para serem utilizadas.
 O Engenheiro de Dados trabalha com bancos de dados, programação e ferramentas para organizar e transportar informações
    
- - Objetivo da Área:?
+ - Objetivo da Área:
    
 - Coleta de dados
 - Organização e tratamento
@@ -26,7 +26,7 @@ O Engenheiro de Dados trabalha com bancos de dados, programação e ferramentas 
    
 As empresas possuem muitos dados atualmente. A Engenharia de Dados ajuda a organizar essas informações para que possam ser analisadase utilizadas na tomada de decisões
    
- - O que faz um Engenheiro de Dados:?
+ - O que faz um Engenheiro de Dados:
    
 Um engenheiro de dados é o profissional que organiza, prepara e mantém os dados de uma empresa.
 Ele cria sistemas para coletar informações de vários lugares, como aplicativos, sites e bancos de dados. Depois, transforma esses dados para que fiquem corretos e fáceis de usar por analistas e cientistas de dados.
@@ -251,7 +251,6 @@ Objetivos:
 
 ### Longo Prazo - 3 a 5+ Anos
 
-Exemplos:
 - Trabalhar como Engenheira de Dados;
 - Ter experiência com projetos reais de dados
 - Aprofundar meus conhecimentos em Cloud 
