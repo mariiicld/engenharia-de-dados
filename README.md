@@ -8,30 +8,48 @@
 # 1. Introdução
 ## 1.1 Engenharia de Dados
  - O que é?
+   
+A Engenharia de Dados é uma área da tecnologia que trabalha com coleta,organização e armazenamento de dados. Ela ajuda as empresas a deixarem suas informações organizadas para serem utilizadas.
+O Engenheiro de Dados trabalha com bancos de dados, programação e ferramentas para organizar e transportar informações
+   
  - Objetivo da Área:?
+   
+- Coleta de dados
+- Organização e tratamento
+- Bancos de dados
+- Armazenamento
+- Processamento
+- Pipelines
+- Integração de informações
+  
  - Porque os Dados são importantes para as empresas:?
+   
+As empresas possuem muitos dados atualmente. A Engenharia de Dados ajuda a organizar essas informações para que possam ser analisadase utilizadas na tomada de decisões
+   
  - O que faz um Engenheiro de Dados:?
+   
+Um engenheiro de dados é o profissional que organiza, prepara e mantém os dados de uma empresa.
+Ele cria sistemas para coletar informações de vários lugares, como aplicativos, sites e bancos de dados. Depois, transforma esses dados para que fiquem corretos e fáceis de usar por analistas e cientistas de dados.
 
 ## 1.2 Atuação do Engenheiro de Dados
- - Banco de dados;
- - Coleta de dados;
- - Tratamento;
- - Armazenamento; 
- - Pipelines;
- - Integração de Dados;
- - Processamento de Dados;
+
+O Engenheiro de Dados pode trabalhar em várias etapas relacionadas aos dados:
+* Bancos de dados: organiza e mantém os dados armazenados.
+* Coleta de dados: busca dados de diferentes fontes.
+* Tratamento: corrige e organiza os dados para evitar problemas.
+* Armazenamento: define formas adequadas de guardar os dados.
+* Processamento: transforma os dados para que possam ser utilizados.
+* Pipelines: cria processos automáticos para movimentar os dados.
+* Integração de dados: junta dados de diferentes sistemas e fontes.
 
 ## 1.3 Importância da Engenharia de Dados
 
-????
+A Engenharia de Dados organiza e prepara as informações geradas pelas empresas, tornando os dados mais acessíveis e confiáveis. Assim, analistas e cientistas de dados podem utilizá-los para realizar análises e ajudar nas tomadas de decisões.
 
 ## 1.4 Análise de Mercado
 
- - Situação no mercado :?
- - Demanda :?
- - Salários :?
- - Crescimento :?
- - Perspectivas profissionais :?
+O mercado de Engenharia de Dados está ligado ao crescimento do uso de dados pelas empresas. Existe demanda por profissionais com conhecimentos em SQL, Python, bancos de dados e Cloud.
+Os salários variam de acordo com a experiência e o nível do profissional. Para quem está começando em ADS, é uma área que pode ser desenvolvida através de estudos e projetos práticos.
 
  ## 1.5 Mapeamento de Vagas
 
