@@ -259,14 +259,16 @@ Objetivos:
 
 ## 2.6 PDI - Plano de Desenvolvimento Individual
 
- - Objetivo - Ação - Prazo - Indicador de progresso
+ ## 3.6 PDI - Plano de Desenvolvimento Individual
 
-Objetivo: melhorar Python - Ação: estudar e praticar exercícios - Prazo: 4 meses - Indicador de progresso: conseguir desenvolver pequenos programas
-Objetivo: aprender SQL - Ação: fazer exercícios e projetos com bancos de dados - Prazo: 4 meses - Indicador de progresso: conseguir realizar consultas SQL
-Objetivo: melhorar GitHub - Ação: utilizar GitHub nos trabalhos de faculdade - Prazo: 3 meses - Indicador de progresso: publicar projetos no perfil
-Objetivo: conhecer engenharia de dados - Ação: faze cursos e pesquisas sobre a área - Prazo: 6 meses - Indicador de progresso: conher principais ferramentas da área
-Objetivo: criar portifólio - Ação: desenvolver e publicar projetos acadêmicos - Prazo: 12 meses -  Indicador de progresso: ter alguns projetos publicados
-Objetivo: buscar estágio - Ação: preparar currículo e Linkedin e procurar oportunidades - Prazo: 6 a 12 meses -  Indicador de progresso: conseguir participar de processos celetivos
+| Objetivo | Ação | Prazo | Indicador de progresso |
+|---|---|---|---|
+| Melhorar Python | Estudar e praticar exercícios | 4 meses | Conseguir desenvolver pequenos programas |
+| Aprender SQL | Fazer exercícios e projetos com bancos de dados | 4 meses | Conseguir realizar consultas SQL |
+| Melhorar GitHub | Utilizar o GitHub nos trabalhos de faculdade | 3 meses | Publicar projetos no perfil |
+| Conhecer Engenharia de Dados | Fazer cursos e pesquisas sobre a área | 6 meses | Conhecer as principais ferramentas da área |
+| Criar portfólio | Desenvolver e publicar projetos acadêmicos | 12 meses | Ter alguns projetos publicados |
+| Buscar estágio | Preparar currículo e LinkedIn e procurar oportunidades | 6 a 12 meses | Conseguir participar de processos seletivos |
 
 ## 2.7 Feedback por Pares
 
@@ -285,18 +287,23 @@ O feedback precisa abordar:
 A Ana ainda está começando a construir sua presença profissional, mas já tem um objetivo bem definido: conseguir um estágio na área de Tecnologia ou Dados e, futuramente, trabalhar com Engenharia de Dados. Como seus perfis são recentes, ainda há bastante espaço para desenvolver.
 
 **Qualidade do perfil digital:**  
+
 O perfil ainda tem pouco conteúdo. No GitHub, por exemplo, só há o trabalho acadêmico de Engenharia de Dados da matéria de Design Profissional. Ainda faltam mais projetos para mostrar na prática o que ela sabe fazer.
 
 **Consistência entre GitHub, LinkedIn e outras redes:**  
+
 O GitHub e o LinkedIn seguem uma direção parecida, voltada para Tecnologia e Engenharia de Dados. Já o Instagram ainda tem poucas informações profissionais e ela ainda não possui um portfólio. Conforme novos projetos e cursos forem surgindo, seria interessante manter todas as plataformas atualizadas.
 
 **Clareza do objetivo profissional:**  
+
 O objetivo está claro. Ela pretende começar com um estágio e, depois, seguir para Engenharia de Dados. Python, SQL, bancos de dados e Cloud também estão de acordo com esse objetivo.
 
 **Viabilidade do plano de carreira:**  
+
 O plano é possível para o momento atual. Acho interessante ela focar primeiro em Python, SQL e bancos de dados para construir uma boa base antes de partir para tecnologias mais avançadas de Cloud e Engenharia de Dados.
 
 **Coerência do PDI:**  
+
 O PDI está de acordo com o plano de carreira, principalmente nos objetivos de aprender Python e SQL, conhecer melhor Engenharia de Dados, melhorar o GitHub e buscar estágio. Porém, alguns indicadores poderiam ser mais específicos. Em vez de apenas “conseguir desenvolver pequenos programas”, por exemplo, poderia definir uma quantidade de exercícios ou projetos para concluir.
 
 **Pontos positivos:**
