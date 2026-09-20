@@ -259,7 +259,6 @@ Objetivos:
 
 ## 2.6 PDI - Plano de Desenvolvimento Individual
 
- ## 3.6 PDI - Plano de Desenvolvimento Individual
 
 | Objetivo | Ação | Prazo | Indicador de progresso |
 |---|---|---|---|
