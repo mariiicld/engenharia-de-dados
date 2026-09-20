@@ -22,7 +22,7 @@ O Engenheiro de Dados trabalha com bancos de dados, programação e ferramentas 
 - Pipelines
 - Integração de informações
   
- - Porque os Dados são importantes para as empresas:?
+ - Porque os Dados são importantes para as empresas:
    
 As empresas possuem muitos dados atualmente. A Engenharia de Dados ajuda a organizar essas informações para que possam ser analisadase utilizadas na tomada de decisões
    
