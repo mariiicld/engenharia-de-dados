@@ -188,9 +188,10 @@ Até o momento, não possuo certificações específicas em Engenharia de Dados.
 
 Como o perfil foi criado recentemente e ainda está sendo construído, a headline pode ser melhorada para deixar mais claro o objetivo profissional.
 
-Exemplo de headline:
+Headline prevista:
 
 Estudante de Análise e Desenvolvimento de Sistemas | Interesse em Engenharia de Dados | Python | SQL | Git/GitHub.
+
 Essa descrição mostra que ainda sou estudante, mas já apresenta a área que pretendo seguir e algumas tecnologias que estou começando a estudar.
 
 ## 2.2.2 Crescimento e Atividade
