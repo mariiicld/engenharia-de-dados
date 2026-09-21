@@ -271,43 +271,75 @@ Objetivos:
 
 ## 2.7 Feedback por Pares
 
-O feedback precisa abordar:
- - Qualidade do perfil digital;
- - Consistência entre GitHub, LinkedIn e outras redes;
- - Clareza do objetivo profissional;
- - Viabilidade do plano de carreira;
- - Coerência do PDI;
- - Pontos positivos;
- - Pontos que precisam melhorar;
- - Sugestões concretas.
+### Feedback Mariana Calderari:
 
-### Feedback para Mariana Calderari:
+A Ana ainda está começando a construir sua presença profissional, mas já tem um objetivo bem definido: conseguir um estágio na área de Tecnologia ou Dados e, futuramente, trabalhar com Engenharia de Dados. Como seus perfis são recentes, ainda há bastante espaço para desenvolver.
 
-Qualidade do perfil:
-O perfil está bem organizado e apresenta sua formação, conhecimentos e interesse pela área de Engenharia de Dados.
+**Qualidade do perfil digital:**  
 
-Pontos positivos:
-A Mariana já possui experiência com algumas tecnologias e projetos, além de ter um plano de carreira e um PDI bem definidos.
+O perfil ainda tem pouco conteúdo. No GitHub, por exemplo, só há o trabalho acadêmico de Engenharia de Dados da matéria de Design Profissional. Ainda faltam mais projetos para mostrar na prática o que ela sabe fazer.
 
-Pontos a melhorar:
-Pode aumentar a quantidade de publicações no LinkedIn e Instagram e continuar adicionando projetos ao GitHub e ao portfólio.
+**Consistência entre GitHub, LinkedIn e outras redes:**  
 
-Sugestões:
-Continuar estudando Python, SQL e ferramentas de dados, desenvolver projetos práticos e manter seus perfis profissionais atualizados.
+O GitHub e o LinkedIn seguem uma direção parecida, voltada para Tecnologia e Engenharia de Dados. Já o Instagram ainda tem poucas informações profissionais e ela ainda não possui um portfólio. Conforme novos projetos e cursos forem surgindo, seria interessante manter todas as plataformas atualizadas.
 
-### Feedback para Valter Junior:
+**Clareza do objetivo profissional:**  
 
-Qualidade do perfil:
-O perfil está bem organizado e apresenta informações sobre sua formação, conhecimentos e objetivo profissional.
+O objetivo está claro. Ela pretende começar com um estágio e, depois, seguir para Engenharia de Dados. Python, SQL, bancos de dados e Cloud também estão de acordo com esse objetivo.
 
-Pontos positivos:
-O Valter já possui um objetivo definido na área de Engenharia de Dados e apresenta um plano de carreira com metas de curto, médio e longo prazo.
+**Viabilidade do plano de carreira:**  
 
-Pontos a melhorar:
-Ainda pode aumentar a quantidade de projetos no GitHub e começar a publicar mais conteúdos relacionados à tecnologia nas redes profissionais.
+O plano é possível para o momento atual. Acho interessante ela focar primeiro em Python, SQL e bancos de dados para construir uma boa base antes de partir para tecnologias mais avançadas de Cloud e Engenharia de Dados.
 
-Sugestões:
-Continuar estudando Python e SQL, desenvolver projetos práticos e manter o GitHub e o LinkedIn atualizados conforme adquirir novos conhecimentos.
+**Coerência do PDI:**  
+
+O PDI está de acordo com o plano de carreira, principalmente nos objetivos de aprender Python e SQL, conhecer melhor Engenharia de Dados, melhorar o GitHub e buscar estágio. Porém, alguns indicadores poderiam ser mais específicos. Em vez de apenas “conseguir desenvolver pequenos programas”, por exemplo, poderia definir uma quantidade de exercícios ou projetos para concluir.
+
+**Pontos positivos:**
+
+- Já possui um objetivo profissional definido;
+- O plano de carreira tem uma evolução coerente;
+- Python e SQL estão entre as principais prioridades;
+- Já começou a organizar sua presença profissional;
+- O PDI possui prazos para os objetivos.
+
+**Pontos que precisam melhorar:**
+
+- Ter mais projetos no GitHub;
+- Desenvolver melhor o LinkedIn e o Instagram profissional;
+- Criar um portfólio;
+- Deixar os indicadores do PDI mais específicos;
+- Definir melhor quais conhecimentos pretende desenvolver em cada etapa da carreira.
+
+**Sugestões concretas:**
+
+- Publicar os próximos projetos da faculdade no GitHub, explicando o que foi feito e quais tecnologias foram usadas;
+- Depois de melhorar em Python e SQL, criar um projeto próprio com banco de dados;
+- Adicionar cursos, projetos e aprendizados no LinkedIn conforme forem acontecendo;
+- Interagir mais com conteúdos e profissionais da área;
+- Acompanhar o PDI durante a faculdade e atualizar as metas conforme for evoluindo.
+
+### Feedback Valter:
+
+A Ana Julia apresenta uma postura realista e consciente sobre o seu momento de início de carreira, demonstrando clareza ao focar na construção dos fundamentos técnicos antes de buscar ferramentas mais complexas.
+
+* **Qualidade do perfil digital:** Os perfis digitais no GitHub e LinkedIn encontram-se em estágio inicial de construção, refletindo o perfil de quem está no 2º semestre da graduação em ADS. O foco atual é acadêmico e necessita de maior volume de projetos e personalização visual.
+* **Consistência entre GitHub, LinkedIn e outras redes:** Há alinhamento quanto ao objetivo de transição para a área de Tecnologia/Dados. No entanto, a presença nas redes (LinkedIn e Instagram) ainda é tímida e precisa ser movimentada conforme novos projetos acadêmicos forem concluídos.
+* **Clareza do objetivo profissional:** O objetivo profissional está muito claro: a busca por uma primeira oportunidade de estágio em tecnologia/dados para, no médio/longo prazo, atuar como Engenheira de Dados.
+* **Viabilidade do plano de carreira:** O plano de carreira é plenamente viável. Focar em Python, SQL e versionamento no curto prazo é o caminho ideal para garantir sustentabilidade no aprendizado antes do contato com plataformas de nuvem.
+* **Coerência do PDI:** O PDI é coerente com as necessidades de um estudante iniciante. Os prazos definidos de 3 a 12 meses para os estudos de base e busca de estágio são adequados para a rotina universitária.
+* **Pontos positivos:**
+  * Foco realista no aprendizado dos fundamentos (Python e SQL);
+  * Clareza na definição do objetivo de entrada (estágio em TI);
+  * Planejamento de carreira pé no chão e bem estruturado em fases.
+* **Pontos que precisam melhorar:**
+  * Indicadores de progresso do PDI precisam ser mais quantitativos (mensuráveis);
+  * Volume de repositórios e projetos práticos no GitHub;
+  * Preenchimento e movimentação ativa do perfil no LinkedIn.
+* **Sugestões concretas:**
+  * **Quantificar os indicadores do PDI:** Substituir metas genéricas por métricas como "Concluir 30 exercícios práticos de SQL" ou "Desenvolver 2 scripts autorais em Python com consumo de API".
+  * **Documentação no GitHub:** Documentar os exercícios e trabalhos da faculdade em repositórios próprios com arquivos `README.md` explicativos.
+  * **Engajamento no LinkedIn:** Atualizar a Headline do perfil e publicar pequenos resumos semanais ou quinzenais sobre os conceitos aprendidos nas aulas de ADS.
 
 # 3. Análise Individual - Mariana Calderari
 ## 3.1 Análise do GitHub
@@ -578,99 +610,41 @@ No longo prazo, o objetivo é consolidar a carreira como **Engenheira de Dados**
 
 ## 3.7 Feedback por Pares
 
-### Feedback para Ana Julia: 
+### Feedback Ana Julia: 
 
-A Ana ainda está começando a construir sua presença profissional, mas já tem um objetivo bem definido: conseguir um estágio na área de Tecnologia ou Dados e, futuramente, trabalhar com Engenharia de Dados. Como seus perfis são recentes, ainda há bastante espaço para desenvolver.
+Qualidade do perfil:
+O perfil está bem organizado e apresenta sua formação, conhecimentos e interesse pela área de Engenharia de Dados.
 
-**Qualidade do perfil digital:**  
+Pontos positivos:
+A Mariana já possui experiência com algumas tecnologias e projetos, além de ter um plano de carreira e um PDI bem definidos.
 
-O perfil ainda tem pouco conteúdo. No GitHub, por exemplo, só há o trabalho acadêmico de Engenharia de Dados da matéria de Design Profissional. Ainda faltam mais projetos para mostrar na prática o que ela sabe fazer.
+Pontos a melhorar:
+Pode aumentar a quantidade de publicações no LinkedIn e Instagram e continuar adicionando projetos ao GitHub e ao portfólio.
 
-**Consistência entre GitHub, LinkedIn e outras redes:**  
+Sugestões:
+Continuar estudando Python, SQL e ferramentas de dados, desenvolver projetos práticos e manter seus perfis profissionais atualizados.
 
-O GitHub e o LinkedIn seguem uma direção parecida, voltada para Tecnologia e Engenharia de Dados. Já o Instagram ainda tem poucas informações profissionais e ela ainda não possui um portfólio. Conforme novos projetos e cursos forem surgindo, seria interessante manter todas as plataformas atualizadas.
+### Feedback Valter:
 
-**Clareza do objetivo profissional:**  
+A Mariana apresenta um perfil digital maduro e muito bem estruturado, impulsionado pela sua formação técnica prévia em Desenvolvimento de Sistemas na ETEC e pela organização da sua presença online em múltiplas plataformas.
 
-O objetivo está claro. Ela pretende começar com um estágio e, depois, seguir para Engenharia de Dados. Python, SQL, bancos de dados e Cloud também estão de acordo com esse objetivo.
-
-**Viabilidade do plano de carreira:**  
-
-O plano é possível para o momento atual. Acho interessante ela focar primeiro em Python, SQL e bancos de dados para construir uma boa base antes de partir para tecnologias mais avançadas de Cloud e Engenharia de Dados.
-
-**Coerência do PDI:**  
-
-O PDI está de acordo com o plano de carreira, principalmente nos objetivos de aprender Python e SQL, conhecer melhor Engenharia de Dados, melhorar o GitHub e buscar estágio. Porém, alguns indicadores poderiam ser mais específicos. Em vez de apenas “conseguir desenvolver pequenos programas”, por exemplo, poderia definir uma quantidade de exercícios ou projetos para concluir.
-
-**Pontos positivos:**
-
-- Já possui um objetivo profissional definido;
-- O plano de carreira tem uma evolução coerente;
-- Python e SQL estão entre as principais prioridades;
-- Já começou a organizar sua presença profissional;
-- O PDI possui prazos para os objetivos.
-
-**Pontos que precisam melhorar:**
-
-- Ter mais projetos no GitHub;
-- Desenvolver melhor o LinkedIn e o Instagram profissional;
-- Criar um portfólio;
-- Deixar os indicadores do PDI mais específicos;
-- Definir melhor quais conhecimentos pretende desenvolver em cada etapa da carreira.
-
-**Sugestões concretas:**
-
-- Publicar os próximos projetos da faculdade no GitHub, explicando o que foi feito e quais tecnologias foram usadas;
-- Depois de melhorar em Python e SQL, criar um projeto próprio com banco de dados;
-- Adicionar cursos, projetos e aprendizados no LinkedIn conforme forem acontecendo;
-- Interagir mais com conteúdos e profissionais da área;
-- Acompanhar o PDI durante a faculdade e atualizar as metas conforme for evoluindo.
-
-### Feedback para Valter:
-
-O Valter já apresenta um direcionamento profissional bem definido para a área de Engenharia de Dados. Ele está começando a construir sua presença profissional e já possui uma ideia clara das tecnologias que pretende aprender e utilizar.
-
-**Qualidade do perfil digital:**  
-O perfil ainda está em fase de construção, principalmente no GitHub, que possui apenas um projeto público relacionado à Engenharia de Dados. Apesar disso, o projeto já demonstra uma preocupação em utilizar Git e GitHub para organizar e documentar os trabalhos da faculdade.
-
-**Consistência entre GitHub, LinkedIn e outras redes:**  
-Os perfis seguem uma direção parecida, todos voltados para Tecnologia, Dados e Engenharia de Dados. O LinkedIn apresenta o objetivo profissional e as tecnologias de interesse, enquanto o GitHub começa a reunir os projetos. O Instagram e o Dev.to ainda precisam de mais conteúdo para acompanhar essa proposta profissional.
-
-**Clareza do objetivo profissional:**  
-O objetivo está bem definido. O Valter pretende atuar com Engenharia de Dados e também considera a área de Analytics Engineer. As tecnologias citadas, como Python, SQL, bancos de dados, Spark, Airflow e AWS, estão relacionadas ao caminho profissional que ele pretende seguir.
-
-**Viabilidade do plano de carreira:**  
-O plano apresenta uma evolução por etapas, começando pela construção de projetos e busca por uma oportunidade de entrada e depois avançando para tecnologias. Para o momento atual, é importante priorizar os fundamentos antes de tentar aprender muitas tecnologias ao mesmo tempo.
-
-**Coerência do PDI:**  
-O PDI está relacionado ao plano de carreira, principalmente nos objetivos de criar projetos, melhorar o LinkedIn, buscar uma oportunidade na área e aprender ferramentas de Engenharia de Dados. Os indicadores também são relativamente concretos, como publicar projetos, aumentar a rede profissional e desenvolver pipelines.
-
-**Pontos positivos:**
-
-- Possui um objetivo profissional bem definido;
-- O plano de carreira apresenta uma evolução por etapas;
-- Python e SQL aparecem como bases importantes;
-- Já começou a construir um portfólio no GitHub;
-- O PDI possui prazos e indicadores de progresso;
-- Demonstra interesse em tecnologias utilizadas na Engenharia de Dados.
-
-**Pontos que precisam melhorar:**
-
-- Ter mais projetos próprios no GitHub;
-- Publicar conteúdos técnicos com maior frequência;
-- Desenvolver melhor o Instagram profissional;
-- Começar a publicar artigos ou conteúdos no Dev.to;
-- Evitar tentar aprender muitas tecnologias avançadas ao mesmo tempo;
-- Tornar os projetos mais completos e documentados.
-
-**Sugestões concretas:**
-
-- Criar projetos próprios de ETL utilizando Python e SQL;
-- Publicar os projetos no GitHub com README explicando o funcionamento;
-- Criar um pipeline utilizando uma API pública e um banco de dados;
-- Compartilhar no LinkedIn os projetos e aprendizados da faculdade;
-- Começar a publicar conteúdos técnicos no Dev.to;
-- Acompanhar o PDI e atualizar as metas conforme adquirir novos conhecimentos.
+* **Qualidade do perfil digital:** Elevada qualidade e organização. Destaca-se pela utilização de um portfólio estruturado no Notion e presença no GitLab, além da criação do projeto prático de automação com inteligência artificial (*Organizador de Rotinas com IA*).
+* **Consistência entre GitHub, LinkedIn e outras redes:** Excelente consistência e alinhamento de informações entre LinkedIn, Instagram profissional, GitHub e portfólio. As palavras-chave (`SQL`, `Python`, `ETL`, `Modelagem de Dados`) estão padronizadas e otimizadas em todos os canais.
+* **Clareza do objetivo profissional:** Extremamente claro e bem definido. Foco direto na atuação como Engenheira de Dados, demonstrando domínio das ferramentas e etapas necessárias do ecossistema de dados.
+* **Viabilidade do plano de carreira:** O plano é robusto, ambicioso e viável. A transição planejada entre a consolidação técnica de curto prazo até a liderança em arquitetura e *cloud* no longo prazo possui uma progressão lógica acertada.
+* **Coerência do PDI:** O PDI é um dos pontos mais fortes do trabalho, estando dividido com precisão entre *Hard Skills* e *Soft Skills*, com ações práticas, prazos bem distribuídos e indicadores de progresso claros.
+* **Pontos positivos:**
+  * Base técnica sólida decorrente da formação na ETEC e graduação na UNICID;
+  * Portfólio diversificado utilizando Notion, GitLab e GitHub;
+  * Projeto autoral funcional envolvendo integração de APIs, automação e inteligência artificial;
+  * PDI completo, cobrindo competências técnicas e comportamentais.
+* **Pontos que precisam melhorar:**
+  * Frequência de publicações e produção de conteúdo autoral no LinkedIn e Instagram;
+  * Desenvolvimento de projetos mais focados especificamente em *pipelines* de dados em nuvem (ETL/ELT).
+* **Sugestões concretas:**
+  * **Produção de Conteúdo no LinkedIn:** Criar uma publicação no LinkedIn apresentando a arquitetura técnica do projeto "Organizador de Rotinas com IA", explicando a integração do n8n com o Firebase.
+  * **Projeto de Dados em Nuvem:** Desenvolver um projeto focado na ingestão de dados em nuvem (ex: script em Python extraindo dados para um *bucket* S3 na AWS e modelagem no PostgreSQL).
+  * **Networking Ativo:** Utilizar a excelente estrutura do perfil do LinkedIn para expandir a rede de conexões com profissionais e recrutadores atuantes na área de Engenharia de Dados.
 
 # 4. Análise Individual - Valter Junior
 
@@ -809,49 +783,65 @@ O PDI está relacionado ao plano de carreira, principalmente nos objetivos de cr
 
 ## 4.7 Feedback por Pares
 
-### Feedback para Ana Julia:
+### Feedback Ana Julia:
 
-A Ana Julia apresenta uma postura realista e consciente sobre o seu momento de início de carreira, demonstrando clareza ao focar na construção dos fundamentos técnicos antes de buscar ferramentas mais complexas.
+Qualidade do perfil:
+O perfil está bem organizado e apresenta informações sobre sua formação, conhecimentos e objetivo profissional.
 
-* **Qualidade do perfil digital:** Os perfis digitais no GitHub e LinkedIn encontram-se em estágio inicial de construção, refletindo o perfil de quem está no 2º semestre da graduação em ADS. O foco atual é acadêmico e necessita de maior volume de projetos e personalização visual.
-* **Consistência entre GitHub, LinkedIn e outras redes:** Há alinhamento quanto ao objetivo de transição para a área de Tecnologia/Dados. No entanto, a presença nas redes (LinkedIn e Instagram) ainda é tímida e precisa ser movimentada conforme novos projetos acadêmicos forem concluídos.
-* **Clareza do objetivo profissional:** O objetivo profissional está muito claro: a busca por uma primeira oportunidade de estágio em tecnologia/dados para, no médio/longo prazo, atuar como Engenheira de Dados.
-* **Viabilidade do plano de carreira:** O plano de carreira é plenamente viável. Focar em Python, SQL e versionamento no curto prazo é o caminho ideal para garantir sustentabilidade no aprendizado antes do contato com plataformas de nuvem.
-* **Coerência do PDI:** O PDI é coerente com as necessidades de um estudante iniciante. Os prazos definidos de 3 a 12 meses para os estudos de base e busca de estágio são adequados para a rotina universitária.
-* **Pontos positivos:**
-  * Foco realista no aprendizado dos fundamentos (Python e SQL);
-  * Clareza na definição do objetivo de entrada (estágio em TI);
-  * Planejamento de carreira pé no chão e bem estruturado em fases.
-* **Pontos que precisam melhorar:**
-  * Indicadores de progresso do PDI precisam ser mais quantitativos (mensuráveis);
-  * Volume de repositórios e projetos práticos no GitHub;
-  * Preenchimento e movimentação ativa do perfil no LinkedIn.
-* **Sugestões concretas:**
-  * **Quantificar os indicadores do PDI:** Substituir metas genéricas por métricas como "Concluir 30 exercícios práticos de SQL" ou "Desenvolver 2 scripts autorais em Python com consumo de API".
-  * **Documentação no GitHub:** Documentar os exercícios e trabalhos da faculdade em repositórios próprios com arquivos `README.md` explicativos.
-  * **Engajamento no LinkedIn:** Atualizar a Headline do perfil e publicar pequenos resumos semanais ou quinzenais sobre os conceitos aprendidos nas aulas de ADS.
-  
-### Feedback para Mariana Calderari:
+Pontos positivos:
+O Valter já possui um objetivo definido na área de Engenharia de Dados e apresenta um plano de carreira com metas de curto, médio e longo prazo.
 
-A Mariana apresenta um perfil digital maduro e muito bem estruturado, impulsionado pela sua formação técnica prévia em Desenvolvimento de Sistemas na ETEC e pela organização da sua presença online em múltiplas plataformas.
+Pontos a melhorar:
+Ainda pode aumentar a quantidade de projetos no GitHub e começar a publicar mais conteúdos relacionados à tecnologia nas redes profissionais.
 
-* **Qualidade do perfil digital:** Elevada qualidade e organização. Destaca-se pela utilização de um portfólio estruturado no Notion e presença no GitLab, além da criação do projeto prático de automação com inteligência artificial (*Organizador de Rotinas com IA*).
-* **Consistência entre GitHub, LinkedIn e outras redes:** Excelente consistência e alinhamento de informações entre LinkedIn, Instagram profissional, GitHub e portfólio. As palavras-chave (`SQL`, `Python`, `ETL`, `Modelagem de Dados`) estão padronizadas e otimizadas em todos os canais.
-* **Clareza do objetivo profissional:** Extremamente claro e bem definido. Foco direto na atuação como Engenheira de Dados, demonstrando domínio das ferramentas e etapas necessárias do ecossistema de dados.
-* **Viabilidade do plano de carreira:** O plano é robusto, ambicioso e viável. A transição planejada entre a consolidação técnica de curto prazo até a liderança em arquitetura e *cloud* no longo prazo possui uma progressão lógica acertada.
-* **Coerência do PDI:** O PDI é um dos pontos mais fortes do trabalho, estando dividido com precisão entre *Hard Skills* e *Soft Skills*, com ações práticas, prazos bem distribuídos e indicadores de progresso claros.
-* **Pontos positivos:**
-  * Base técnica sólida decorrente da formação na ETEC e graduação na UNICID;
-  * Portfólio diversificado utilizando Notion, GitLab e GitHub;
-  * Projeto autoral funcional envolvendo integração de APIs, automação e inteligência artificial;
-  * PDI completo, cobrindo competências técnicas e comportamentais.
-* **Pontos que precisam melhorar:**
-  * Frequência de publicações e produção de conteúdo autoral no LinkedIn e Instagram;
-  * Desenvolvimento de projetos mais focados especificamente em *pipelines* de dados em nuvem (ETL/ELT).
-* **Sugestões concretas:**
-  * **Produção de Conteúdo no LinkedIn:** Criar uma publicação no LinkedIn apresentando a arquitetura técnica do projeto "Organizador de Rotinas com IA", explicando a integração do n8n com o Firebase.
-  * **Projeto de Dados em Nuvem:** Desenvolver um projeto focado na ingestão de dados em nuvem (ex: script em Python extraindo dados para um *bucket* S3 na AWS e modelagem no PostgreSQL).
-  * **Networking Ativo:** Utilizar a excelente estrutura do perfil do LinkedIn para expandir a rede de conexões com profissionais e recrutadores atuantes na área de Engenharia de Dados.
+Sugestões:
+Continuar estudando Python e SQL, desenvolver projetos práticos e manter o GitHub e o LinkedIn atualizados conforme adquirir novos conhecimentos.
+
+### Feedback Mariana Calderari:
+
+O Valter já apresenta um direcionamento profissional bem definido para a área de Engenharia de Dados. Ele está começando a construir sua presença profissional e já possui uma ideia clara das tecnologias que pretende aprender e utilizar.
+
+**Qualidade do perfil digital:**  
+O perfil ainda está em fase de construção, principalmente no GitHub, que possui apenas um projeto público relacionado à Engenharia de Dados. Apesar disso, o projeto já demonstra uma preocupação em utilizar Git e GitHub para organizar e documentar os trabalhos da faculdade.
+
+**Consistência entre GitHub, LinkedIn e outras redes:**  
+Os perfis seguem uma direção parecida, todos voltados para Tecnologia, Dados e Engenharia de Dados. O LinkedIn apresenta o objetivo profissional e as tecnologias de interesse, enquanto o GitHub começa a reunir os projetos. O Instagram e o Dev.to ainda precisam de mais conteúdo para acompanhar essa proposta profissional.
+
+**Clareza do objetivo profissional:**  
+O objetivo está bem definido. O Valter pretende atuar com Engenharia de Dados e também considera a área de Analytics Engineer. As tecnologias citadas, como Python, SQL, bancos de dados, Spark, Airflow e AWS, estão relacionadas ao caminho profissional que ele pretende seguir.
+
+**Viabilidade do plano de carreira:**  
+O plano apresenta uma evolução por etapas, começando pela construção de projetos e busca por uma oportunidade de entrada e depois avançando para tecnologias. Para o momento atual, é importante priorizar os fundamentos antes de tentar aprender muitas tecnologias ao mesmo tempo.
+
+**Coerência do PDI:**  
+O PDI está relacionado ao plano de carreira, principalmente nos objetivos de criar projetos, melhorar o LinkedIn, buscar uma oportunidade na área e aprender ferramentas de Engenharia de Dados. Os indicadores também são relativamente concretos, como publicar projetos, aumentar a rede profissional e desenvolver pipelines.
+
+**Pontos positivos:**
+
+- Possui um objetivo profissional bem definido;
+- O plano de carreira apresenta uma evolução por etapas;
+- Python e SQL aparecem como bases importantes;
+- Já começou a construir um portfólio no GitHub;
+- O PDI possui prazos e indicadores de progresso;
+- Demonstra interesse em tecnologias utilizadas na Engenharia de Dados.
+
+**Pontos que precisam melhorar:**
+
+- Ter mais projetos próprios no GitHub;
+- Publicar conteúdos técnicos com maior frequência;
+- Desenvolver melhor o Instagram profissional;
+- Começar a publicar artigos ou conteúdos no Dev.to;
+- Evitar tentar aprender muitas tecnologias avançadas ao mesmo tempo;
+- Tornar os projetos mais completos e documentados.
+
+**Sugestões concretas:**
+
+- Criar projetos próprios de ETL utilizando Python e SQL;
+- Publicar os projetos no GitHub com README explicando o funcionamento;
+- Criar um pipeline utilizando uma API pública e um banco de dados;
+- Compartilhar no LinkedIn os projetos e aprendizados da faculdade;
+- Começar a publicar conteúdos técnicos no Dev.to;
+- Acompanhar o PDI e atualizar as metas conforme adquirir novos conhecimentos.
 
 # 5. Conclusão - Análise de Gaps e Plano de Ação
 
