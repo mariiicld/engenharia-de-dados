@@ -729,7 +729,7 @@ A Mariana apresenta um perfil digital maduro e muito bem estruturado, impulsiona
 
 ## 4.3 Instagram Profissional
 
-* **Bio:** > *ADS @ UNICID | Foco em Engenharia de Dados & IA 📊 | Construindo soluções com Python & SQL 🐍 | Projetos no GitHub ⬇️*
+* **Bio:** > *ADS @ UNICID | Foco em Engenharia de Dados & IA | Construindo soluções com Python & SQL | Projetos no GitHub *
 * **Foto de perfil:** Foto recente com enquadramento profissional (rosto visível, boa iluminação e fundo neutro), mantendo a identidade visual utilizada no LinkedIn e GitHub.
 * **Informações profissionais:** Destaque para a formação acadêmica em Análise e Desenvolvimento de Sistemas (UNICID) e para a transição/foco de carreira para a área de Engenharia de Dados.
 * **Conteúdo publicado:** Perfil recém-criado (zerado), sem publicações no *feed*, *Reels* ou *Destaques* registrados até o momento.
